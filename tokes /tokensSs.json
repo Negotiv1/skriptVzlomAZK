@@ -1,11 +1,11 @@
 [
   {
     "token": "sAKIRASQ12EDqewFzDQ",
-    "active": ban,
+    "active": false,
     "user": "@Ognjen192",
     "devices": 1,
     "max_devices": 2,
-    "expiry_date": "2025-09-01"
+    "expiry_date": "BAN"
   },
   {
     "token": "11vs11sss",
