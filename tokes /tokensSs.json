@@ -1,7 +1,7 @@
 [
   {
     "token": "sAKIRASQ12EDqewFzDQ",
-    "active": true,
+    "active": ban,
     "user": "@Ognjen192",
     "devices": 1,
     "max_devices": 2,
