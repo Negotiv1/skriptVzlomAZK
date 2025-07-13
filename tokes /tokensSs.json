@@ -17,11 +17,11 @@
   },
   {
     "token": "AsaKY1M@0SfWdc2!",
-    "active": true,
+    "active": false,
     "user": "Акумчик",
     "devices": 1,
     "max_devices": 2,
-    "expiry_date": "2029-05-01"
+    "expiry_date": "BAN"
   },
   {
     "token": "NEREST-1da2d22@a43kvdesses",
@@ -33,11 +33,11 @@
   },
   {
     "token": "1313HE27D7DG@",
-    "active": true,
+    "active": false,
     "user": "Luka-8004628611",
     "devices": 1,
     "max_devices": 2,
-    "expiry_date": "2025-09-02"
+    "expiry_date": "BAN"
   },
   {
     "token": "12H7S1FG1SJ9@",
